@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ollyfnx32Lyd1Cx3t6c8/9Fr5+wrY7QPk/bElpy1Znn3EfbtyOMniWADLyKZerAPhlUo3YuO1BgR08oB0RFyqw==",
+  "dgSpecHash": "DMcst/RzDqU7U2QFIM4Cz+KGfz/qZt1o7TAvXcJhW3GCfmKLWF2cYjXD/lp9WkWyGiQ3x70kzvfO8v7HCpilbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Documents\\trabalhoBD-Etapa1\\LocadoraVeiculos\\API-Veiculos\\API-Veiculos.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\psg-tads-2024-1-back-bd-AlexandreAraujo12\\codigo\\API-Veiculos\\API-Veiculos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
